@@ -1,0 +1,6 @@
+name: xPlaySlots
+version: 1.0
+main: net.Inverion.xPlaySlots.Core
+commands:
+    slotsreload:
+    slotsframe:

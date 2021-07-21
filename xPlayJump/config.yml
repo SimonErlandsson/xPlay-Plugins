@@ -1,0 +1,6 @@
+launch:
+  sound: true
+  nofalldamage: true
+block:
+  launch: 19
+  trigger: 35

@@ -1,0 +1,23 @@
+main: net.maartin.plotsystem.Main
+version: 1.5.2a
+author: Maartin
+name: xPlayChunk
+description: A chunk-based protection plugin
+depend: [Vault]
+commands:
+  chunk:
+    usage: /chunk [subcommand]
+    description: The main plot command
+    aliases: [plots, plot, p, c]
+  claim:
+    usage: /claim
+    description: An alias for the /chunk claim command
+  unclaim:
+    usage: /unclaim
+    description: An alias for the /chunk unclaim command
+  add:
+    usage: /add <player>
+    description: An alias for the /chunk add command
+  untrust:
+    usage: /untrust <player>
+    description: An alias for the /chunk remove command

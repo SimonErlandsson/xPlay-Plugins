@@ -1,0 +1,4 @@
+name: xPlaySpel
+version: 1.0
+main: me.Simonsigge.xPlaySpel.Main
+commands:
