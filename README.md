@@ -13,6 +13,7 @@ De flesta plugin användes i januari 2018 och är således kompatibla med dåtid
 * xPlayArbete - betala spelare beroende på utförd aktivitet
 
 Finns även lite andra funktioner såsom Discord-integration och smidigare navigering mellan delservrar.
-Saknar ni något plugin, skicka ett meddelande.
+
+Saknar ni något plugin, skicka ett meddelande. Är även medveten om att filerna innehåller en del lösenord och API-tokens, men det är helt okej då dessa tjänster inte längre är aktiva.
 
 Återigen tack för all glädje som servern bidrog till, tänker ofta tillbaka på tiden än idag! :)
