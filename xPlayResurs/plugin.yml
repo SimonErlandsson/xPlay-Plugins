@@ -1,0 +1,6 @@
+name: xPlayResurs
+version: 1.0
+main: me.Simonsigge.xPlayResurs.Main
+commands:
+     spawn:
+     kistor:

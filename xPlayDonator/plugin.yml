@@ -1,0 +1,7 @@
+name: xPlayDonator
+version: 1.0
+main: me.Simonsigge.xPlayDonator.Main.Main
+commands:
+     donator:
+       aliases: [booster, donera, meny, rank, ranks, legend, vip, ilovexp, skrik, cosmetics]
+     donatoradmin:

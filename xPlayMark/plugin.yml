@@ -1,0 +1,4 @@
+name: xPlayMark
+version: 1.0
+main: me.Simonsigge.xPlayMark.Main
+commands:

@@ -1,0 +1,14 @@
+name: xPlayCore
+version: 1.0
+main: me.Simonsigge.xPlayCore.Main
+commands:
+     stad:
+     hub:
+     mark:
+     resurs:
+     pvp:
+     spel:
+     event:
+     spawn:
+     arbete:
+     towny:

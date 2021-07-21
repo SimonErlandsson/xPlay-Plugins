@@ -1,0 +1,5 @@
+name: xPlayBörs
+version: 1.0
+main: me.Simonsigge.xPlayBörs.Main
+commands:
+     xplaybörs:

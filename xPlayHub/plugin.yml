@@ -1,0 +1,4 @@
+name: xPlayHub
+version: 1.0
+main: me.Simonsigge.xPlayHub.Main
+commands:

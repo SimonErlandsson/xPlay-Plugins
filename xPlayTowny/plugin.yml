@@ -1,0 +1,4 @@
+name: xPlayTowny
+version: 1.0
+main: me.Simonsigge.xPlayTowny.Main
+commands:

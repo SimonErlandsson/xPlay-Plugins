@@ -1,0 +1,8 @@
+name: xPlayJump
+main: me.Simonsigge.xPlayJump.Main
+author: SoSDylan
+version: 1.1
+description: Jump on a sponge to get launched
+commands:
+  jump:
+    description: /jump
