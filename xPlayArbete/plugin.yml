@@ -1,7 +1,0 @@
-name: xPlayArbete
-version: 1.0
-author: Vouchs, File14
-main: net.vouchs.arbete.Core
-depend: [Citizens]
-commands:
-  booster:

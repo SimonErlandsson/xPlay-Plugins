@@ -1,6 +1,0 @@
-name: xPlayPvP
-version: 1.0
-main: se.simonsigge.xplaypvp.Main
-commands:
-     kit:
-     booster:
